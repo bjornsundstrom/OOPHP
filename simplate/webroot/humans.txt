@@ -1,0 +1,1 @@
+Simplate is a PHP-boilerplate/framework for small websites.
